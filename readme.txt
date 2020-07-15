@@ -1,0 +1,1 @@
+To install this, just upload the files located in this to their respective folders. This was made to help in the import of the codeshare flights.
